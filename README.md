@@ -1,6 +1,6 @@
 # Who am I?
 
-- 👋 Hi, I’m Matthew Wideman and I'm 19. My other github accounts are [@mattwdunwoody](https://github.com/mattwdunwoody) and [@oxyg3ncs](https://github.com/oxyg3ncs).
+- 👋 Hi, I’m Matthew Wideman and I'm 19.
 - 👀 I’m interested in programming, cyber security, and computer hardware.
 - 🌱 I’m currently learning shell scripting, web development, and more at my college. In my free time, I am teaching myself C++.
 - 💞️ I’m looking to collaborate on video games, bots, and software.
